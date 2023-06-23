@@ -8,7 +8,7 @@ Trains the model.
 ### `python app.py`
 Runs the backend.
 
-### `vite dev`
+### `pnpm dev`
 Runs the frontend.
 
 ## Screenshots
