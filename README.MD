@@ -13,4 +13,4 @@ Runs the frontend.
 
 ## Screenshots
 Main page
-![alt text](https://github.com/RMollinedo/react-flask-ml/blob/master/capture1.png)
+![alt text](https://github.com/RMollinedo/react-flask-ml/blob/main/capture1.png)
